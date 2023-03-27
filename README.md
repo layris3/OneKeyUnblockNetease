@@ -32,7 +32,7 @@ npx启动项目同时监听8080端口。
 
 配置成windows自启动服务（1次安装配置，永久使用）
 
-### 项目来源
+### 项目灵感来源
 
 [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic)
 
